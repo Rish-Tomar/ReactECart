@@ -1,0 +1,83 @@
+
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "hello"
+      }
+    ],
+
+    "products":[
+        {
+            "id":1,
+            "title":"Watch",
+            "price":40,
+            "rating":4,
+            "details":["Analog Watch","Leather Strap","white Dial","suitable for Men"],
+            "image":"https://cdn.pixabay.com/photo/2016/11/29/13/39/analog-watch-1869928_960_720.jpg"
+        },
+        {
+            "id":2,
+            "title":"Mobile",
+            "price":10000,
+            "rating":4.5,
+            "details":["6GB Ram","32GB Rom","Dual Sim","HD Display","16MP Back Camera|| 8Mp Front Camera"],
+            "image":"https://cdn.pixabay.com/photo/2017/04/03/15/52/mobile-phone-2198770_960_720.png"
+        },
+        {
+            "id":3,
+            "title":"Mouse",
+            "price":1200,
+            "rating":3,
+            "details":["Wired Mouse","Braided Cable","Ergonomic Design"],
+            "image":"https://cdn.pixabay.com/photo/2013/07/12/17/41/computer-mouse-152249_960_720.png"
+        },
+        { 
+            "id":4,
+            "title":"Keyboard",
+            "price":876,
+            "rating":3.6,
+            "details":["wired Keyboard","Full button Layout","membrane switches","usb connection cable"],
+            "image":"https://cdn.pixabay.com/photo/2022/06/11/14/22/keyboard-7256457_960_720.png" 
+        },
+        {
+            "id":5,
+            "title":"Laptop",
+            "price":60000,
+            "rating":2.5,
+            "details":["16GB Ram","1TB HDD","Intel i5","Windows 11 Home","15.6Display"],
+            "image":"https://images.freeimages.com/images/previews/e49/isolated-macbook-pro-1615424.jpg"
+            
+        },
+        {
+            "id":6,
+            "title":"Chair",
+            "price":7000,
+            "rating":4.3,
+            "details":["Ergonomic Design","Upto 120Kg Supported","With Arm Rest"],
+            "image":"https://media.istockphoto.com/id/1297324374/photo/ergonomic-computer-chair.jpg?s=612x612&w=is&k=20&c=hTZ31TH3TbTI--cxgWJqnMOsmIsaGBrm0_Szpfrn2rk="
+            
+        },
+        {
+            "id":7,
+            "title":"Sofa",
+            "price":22000,
+            "rating":4,
+            "details":["3 Person Capacity","soft seats","Metal Frame"],
+            "image":"https://cdn.pixabay.com/photo/2014/12/21/23/50/couch-576136_960_720.png"
+            
+        },
+        {
+            "id":8,
+            "title":"Cycle",
+            "price":7500,
+            "rating":3.7,
+            "details":["Non-Geared","18inches frame","26 inches wheels","V-brakes"],
+            "image":"https://images.unsplash.com/photo-1618762044398-ec1e7e048bbd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGJpY3ljbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+            
+        }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }

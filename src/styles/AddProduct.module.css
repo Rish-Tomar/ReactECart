@@ -1,0 +1,28 @@
+.AddProductWrapper{
+    display: flex;
+    flex-direction:column;
+    margin: auto;
+    width:60%;
+    margin-top:3%;
+    padding:30px;
+    background-color: rgb(232, 238, 227);
+}
+
+span{
+    font-weight: bold;
+}
+
+.inputBox{
+    height:40px;
+}
+.button{
+    width:55px;
+    height:30px;
+    margin:auto;
+    margin-top: 15px;
+}
+.button:hover{
+    background-color: green;
+    color:white;
+    border: none;
+}

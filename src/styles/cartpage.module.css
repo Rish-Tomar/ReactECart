@@ -1,0 +1,54 @@
+.cartWrapper{
+    width:50%;
+    background-color: beige;
+    margin:auto;
+    margin-bottom: 8px;
+    display: flex;
+    flex-direction: row;
+}
+.titleDivWrapper{
+    display: flex;
+    flex-direction: row;
+    width:60%;
+}
+.image{
+    height: 25px;
+  width: 25px;
+  margin-right: 10px;
+}
+.imageDiv{
+    width: 200px;
+    height:130px;
+}
+.itemTitle{
+    margin-bottom: -20px;
+}
+.productImage{
+    width:80%;
+    height:85%;
+    margin:5px 5px;
+}
+.titleAndUnits{
+    width:40%
+}
+.cartItemOptions{
+    display: flex;
+    flex-direction: row;
+    margin-left: 30%;
+    margin-top: 35px;
+}
+.cartItemOptions img{
+ margin: auto;
+}
+.priceAndOptionsDiv{
+    width:40%;
+    margin-left:5%;
+}
+
+
+/* .............. for cart page ............... */
+.cartTotalDiv{
+    margin-left: 50%;
+    color: rgb(91, 49, 129);
+    font-weight: bold;
+}

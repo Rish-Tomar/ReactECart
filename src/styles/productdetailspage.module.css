@@ -1,0 +1,49 @@
+.outerDiv{
+    display: flex;
+    flex-direction: row;
+}
+.imageAndPriceDiv{
+    display: flex;
+    flex-direction: column;
+    width:40%;
+    height:100%;
+    margin:2% 4%;
+    padding: 8px;
+}
+.imageDiv{
+    width:100%;
+    height:100%;
+    margin-bottom: 50px;
+}
+.imageTag{
+    width:90%;
+    height:200px;
+    background-color: aqua;
+}
+.descriptionAndDetails{
+    display: flex;
+    flex-direction: column;
+    width:58%;
+    margin:2% 2%;
+    padding: 8px;
+}
+.priceAndRating{
+    height:30%;
+    margin-bottom: 5px;
+}
+.addToCart{
+    margin-top: 70px;
+    background-color: rgb(158, 100, 24);
+    padding: 5px;
+    font-size: xx-large;
+    font-weight: 600;
+    text-align: center;
+    width:70%;
+    margin-left: 20%;
+    text-decoration: none;
+}
+.addToCart:hover{
+    background-color: rgb(14, 177, 14);
+    color: white;
+    border: none;
+}

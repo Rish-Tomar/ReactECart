@@ -1,0 +1,46 @@
+.navbarWrapper{
+    width:100%;
+    height:20%;
+    background-color: rgb(191, 182, 199);  
+    display: flex;
+    flex-direction: row;
+}
+
+.navbarImage{
+    width:16%;
+    padding:5px;
+}
+.linkOptions{
+    margin: auto;
+    margin-right: 20px;
+    width:180px;
+    /* background-color: aqua; */
+}
+.cartLinkOptions{
+    margin: auto;
+    margin-right: 20px;
+    width:180px;
+}
+.text{
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 800;
+    text-decoration: none;
+}
+.cartCount{
+    background-color: yellow;
+    width:13px;
+    height: 20px;
+    border-radius: 50%;
+    padding: 5px;
+    text-align: center;
+    position: absolute;
+    right: 0;
+    top:10px;
+    left:94%;
+}
+.image{
+  height: 35px;
+  width:  35px;
+  margin-right: 10px;
+}
